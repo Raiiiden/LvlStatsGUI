@@ -1,0 +1,5 @@
+tellraw @s [""]
+tellraw @s [".............................................................."]
+tellraw @s ["","Level 50: ",{"score":{"name":"50","objective":"playerLevelMath"}}," XP","\n","Level 100: ",{"score":{"name":"100","objective":"playerLevelMath"}}," XP","\n","Level 150: ",{"score":{"name":"150","objective":"playerLevelMath"}}," XP","\n","Level 200: ",{"score":{"name":"200","objective":"playerLevelMath"}}," XP","\n","Level 250: ",{"score":{"name":"250","objective":"playerLevelMath"}}," XP","\n","Level 300: ",{"score":{"name":"300","objective":"playerLevelMath"}}," XP","\n","Level 350: ",{"score":{"name":"350","objective":"playerLevelMath"}}," XP","\n","Level 400: ",{"score":{"name":"400","objective":"playerLevelMath"}}," XP","\n","Level 450: ",{"score":{"name":"450","objective":"playerLevelMath"}}," XP","\n","Level 500: ",{"score":{"name":"500","objective":"playerLevelMath"}}," XP"]
+tellraw @s [".............................................................."]
+tellraw @s [""]

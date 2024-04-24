@@ -1,0 +1,16 @@
+execute if score @s undergarden-001 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/brute
+execute if score @s undergarden-002 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/dweller
+execute if score @s undergarden-003 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/forgotten_guardian
+execute if score @s undergarden-004 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/gloomper
+execute if score @s undergarden-005 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/gwib
+execute if score @s undergarden-006 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/gwibling
+execute if score @s undergarden-007 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/masticator
+execute if score @s undergarden-008 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/mog
+execute if score @s undergarden-009 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/muncher
+execute if score @s undergarden-010 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/nargoyle
+execute if score @s undergarden-011 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/rotbeast
+execute if score @s undergarden-012 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/rotling
+execute if score @s undergarden-013 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/rotwalker
+execute if score @s undergarden-014 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/scintling
+execute if score @s undergarden-015 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/sploogie
+execute if score @s undergarden-016 matches 1.. run function lvlstats:admin/xpsystem/xplogic/undergarden/stoneborn

@@ -1,0 +1,83 @@
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=0}] run attribute @s epicfight:offhand_attack_damage base set 1
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=1}] run attribute @s epicfight:offhand_attack_damage base set 1.01909375
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=2}] run attribute @s epicfight:offhand_attack_damage base set 1.0381875
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=3}] run attribute @s epicfight:offhand_attack_damage base set 1.05728125
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=4}] run attribute @s epicfight:offhand_attack_damage base set 1.076375
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=5}] run attribute @s epicfight:offhand_attack_damage base set 1.09546875
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=6}] run attribute @s epicfight:offhand_attack_damage base set 1.1145625
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=7}] run attribute @s epicfight:offhand_attack_damage base set 1.13365625
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=8}] run attribute @s epicfight:offhand_attack_damage base set 1.15275
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=9}] run attribute @s epicfight:offhand_attack_damage base set 1.17184375
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=10}] run attribute @s epicfight:offhand_attack_damage base set 1.1909375
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=11}] run attribute @s epicfight:offhand_attack_damage base set 1.21003125
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=12}] run attribute @s epicfight:offhand_attack_damage base set 1.229125
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=13}] run attribute @s epicfight:offhand_attack_damage base set 1.24821875
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=14}] run attribute @s epicfight:offhand_attack_damage base set 1.2673125
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=15}] run attribute @s epicfight:offhand_attack_damage base set 1.28640625
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=16}] run attribute @s epicfight:offhand_attack_damage base set 1.3055
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=17}] run attribute @s epicfight:offhand_attack_damage base set 1.32459375
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=18}] run attribute @s epicfight:offhand_attack_damage base set 1.3436875
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=19}] run attribute @s epicfight:offhand_attack_damage base set 1.36278125
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=20}] run attribute @s epicfight:offhand_attack_damage base set 1.381875
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=21}] run attribute @s epicfight:offhand_attack_damage base set 1.40096875
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=22}] run attribute @s epicfight:offhand_attack_damage base set 1.4200625
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=23}] run attribute @s epicfight:offhand_attack_damage base set 1.43915625
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=24}] run attribute @s epicfight:offhand_attack_damage base set 1.45825
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=25}] run attribute @s epicfight:offhand_attack_damage base set 1.47734375
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=26}] run attribute @s epicfight:offhand_attack_damage base set 1.4964375
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=27}] run attribute @s epicfight:offhand_attack_damage base set 1.51553125
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=28}] run attribute @s epicfight:offhand_attack_damage base set 1.534625
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=29}] run attribute @s epicfight:offhand_attack_damage base set 1.55371875
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=30}] run attribute @s epicfight:offhand_attack_damage base set 1.5728125
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=31}] run attribute @s epicfight:offhand_attack_damage base set 1.59190625
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=32}] run attribute @s epicfight:offhand_attack_damage base set 1.611
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=33}] run attribute @s epicfight:offhand_attack_damage base set 1.63009375
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=34}] run attribute @s epicfight:offhand_attack_damage base set 1.6491875
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=35}] run attribute @s epicfight:offhand_attack_damage base set 1.66828125
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=36}] run attribute @s epicfight:offhand_attack_damage base set 1.687375
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=37}] run attribute @s epicfight:offhand_attack_damage base set 1.70646875
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=38}] run attribute @s epicfight:offhand_attack_damage base set 1.7255625
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=39}] run attribute @s epicfight:offhand_attack_damage base set 1.74465625
+execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=40}] run attribute @s epicfight:offhand_attack_damage base set 1.76375
+
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=0}] run attribute @s epicfight:offhand_attack_damage base set 1.5
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=1}] run attribute @s epicfight:offhand_attack_damage base set 1.541379296875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=2}] run attribute @s epicfight:offhand_attack_damage base set 1.5832359375
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=3}] run attribute @s epicfight:offhand_attack_damage base set 1.625569921875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=4}] run attribute @s epicfight:offhand_attack_damage base set 1.66838125
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=5}] run attribute @s epicfight:offhand_attack_damage base set 1.711669921875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=6}] run attribute @s epicfight:offhand_attack_damage base set 1.7554359375
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=7}] run attribute @s epicfight:offhand_attack_damage base set 1.799679296875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=8}] run attribute @s epicfight:offhand_attack_damage base set 1.8444
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=9}] run attribute @s epicfight:offhand_attack_damage base set 1.889598046875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=10}] run attribute @s epicfight:offhand_attack_damage base set 1.9352734375
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=11}] run attribute @s epicfight:offhand_attack_damage base set 1.981426171875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=12}] run attribute @s epicfight:offhand_attack_damage base set 2.02805625
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=13}] run attribute @s epicfight:offhand_attack_damage base set 2.075163671875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=14}] run attribute @s epicfight:offhand_attack_damage base set 2.1227484375
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=15}] run attribute @s epicfight:offhand_attack_damage base set 2.170810546875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=16}] run attribute @s epicfight:offhand_attack_damage base set 2.21935
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=17}] run attribute @s epicfight:offhand_attack_damage base set 2.268366796875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=18}] run attribute @s epicfight:offhand_attack_damage base set 2.3178609375
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=19}] run attribute @s epicfight:offhand_attack_damage base set 2.367832421875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=20}] run attribute @s epicfight:offhand_attack_damage base set 2.41828125
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=21}] run attribute @s epicfight:offhand_attack_damage base set 2.469207421875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=22}] run attribute @s epicfight:offhand_attack_damage base set 2.5206109375
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=23}] run attribute @s epicfight:offhand_attack_damage base set 2.572491796875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=24}] run attribute @s epicfight:offhand_attack_damage base set 2.62485
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=25}] run attribute @s epicfight:offhand_attack_damage base set 2.677685546875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=26}] run attribute @s epicfight:offhand_attack_damage base set 2.7309984375
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=27}] run attribute @s epicfight:offhand_attack_damage base set 2.784788671875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=28}] run attribute @s epicfight:offhand_attack_damage base set 2.83905625
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=29}] run attribute @s epicfight:offhand_attack_damage base set 2.893801171875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=30}] run attribute @s epicfight:offhand_attack_damage base set 2.9490234375
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=31}] run attribute @s epicfight:offhand_attack_damage base set 3.004723046875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=32}] run attribute @s epicfight:offhand_attack_damage base set 3.0609
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=33}] run attribute @s epicfight:offhand_attack_damage base set 3.117554296875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=34}] run attribute @s epicfight:offhand_attack_damage base set 3.1746859375
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=35}] run attribute @s epicfight:offhand_attack_damage base set 3.232294921875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=36}] run attribute @s epicfight:offhand_attack_damage base set 3.29038125
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=37}] run attribute @s epicfight:offhand_attack_damage base set 3.348944921875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=38}] run attribute @s epicfight:offhand_attack_damage base set 3.4079859375
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=39}] run attribute @s epicfight:offhand_attack_damage base set 3.467504296875
+execute if score @s critExec matches 1 run execute if score 15 attributes matches 1 run execute if score 03 attributes matches 1 run execute if entity @s[scores={strength=40}] run attribute @s epicfight:offhand_attack_damage base set 3.5275

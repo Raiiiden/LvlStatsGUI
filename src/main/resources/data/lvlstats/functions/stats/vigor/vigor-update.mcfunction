@@ -1,0 +1,11 @@
+execute if score VI statPreset matches 0 run function lvlstats:stats/vigor/vigor-update-00
+execute if score VI statPreset matches 1 run function lvlstats:stats/vigor/vigor-update-01
+execute if score VI statPreset matches 2 run function lvlstats:stats/vigor/vigor-update-02
+execute if score VI statPreset matches 3 run function lvlstats:stats/vigor/vigor-update-03
+execute if score VI statPreset matches 4 run function lvlstats:stats/vigor/vigor-update-04
+execute if score VI statPreset matches 5 run function lvlstats:stats/vigor/vigor-update-05
+execute if score VI statPreset matches 6 run function lvlstats:stats/vigor/vigor-update-06
+execute if score VI statPreset matches 7 run function lvlstats:stats/vigor/vigor-update-07
+execute if score VI statPreset matches 8 run function lvlstats:stats/vigor/vigor-update-08
+execute if score VI statPreset matches 9 run function lvlstats:stats/vigor/vigor-update-09
+execute if score VI statPreset matches 10 run function lvlstats:stats/vigor/vigor-update-10

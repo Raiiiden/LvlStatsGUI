@@ -1,0 +1,1 @@
+function lvlstats:stats/intelligence/intelligence-update-02-irons_spellbooks

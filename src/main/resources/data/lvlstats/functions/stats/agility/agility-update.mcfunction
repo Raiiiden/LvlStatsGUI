@@ -1,0 +1,9 @@
+execute if score AG statPreset matches 0 run function lvlstats:stats/agility/agility-update-00
+execute if score AG statPreset matches 1 run function lvlstats:stats/agility/agility-update-01
+execute if score AG statPreset matches 2 run function lvlstats:stats/agility/agility-update-02
+execute if score AG statPreset matches 3 run function lvlstats:stats/agility/agility-update-03
+execute if score AG statPreset matches 4 run function lvlstats:stats/agility/agility-update-04
+execute if score AG statPreset matches 5 run function lvlstats:stats/agility/agility-update-05
+execute if score AG statPreset matches 6 run function lvlstats:stats/agility/agility-update-06
+execute if score AG statPreset matches 7 run function lvlstats:stats/agility/agility-update-07
+execute if score AG statPreset matches 8 run function lvlstats:stats/agility/agility-update-08

@@ -1,0 +1,11 @@
+execute if score 10 attributes matches 1 run execute if entity @s[scores={vigor=0}] run attribute @s fxbuildup:effect_resistance base set 1000
+execute if score 10 attributes matches 1 run execute if entity @s[scores={vigor=1}] run attribute @s fxbuildup:effect_resistance base set 1020
+execute if score 10 attributes matches 1 run execute if entity @s[scores={vigor=2}] run attribute @s fxbuildup:effect_resistance base set 1040
+execute if score 10 attributes matches 1 run execute if entity @s[scores={vigor=3}] run attribute @s fxbuildup:effect_resistance base set 1060
+execute if score 10 attributes matches 1 run execute if entity @s[scores={vigor=4}] run attribute @s fxbuildup:effect_resistance base set 1080
+execute if score 10 attributes matches 1 run execute if entity @s[scores={vigor=5}] run attribute @s fxbuildup:effect_resistance base set 1100
+execute if score 10 attributes matches 1 run execute if entity @s[scores={vigor=6}] run attribute @s fxbuildup:effect_resistance base set 1120
+execute if score 10 attributes matches 1 run execute if entity @s[scores={vigor=7}] run attribute @s fxbuildup:effect_resistance base set 1140
+execute if score 10 attributes matches 1 run execute if entity @s[scores={vigor=8}] run attribute @s fxbuildup:effect_resistance base set 1160
+execute if score 10 attributes matches 1 run execute if entity @s[scores={vigor=9}] run attribute @s fxbuildup:effect_resistance base set 1180
+execute if score 10 attributes matches 1 run execute if entity @s[scores={vigor=10}] run attribute @s fxbuildup:effect_resistance base set 1200

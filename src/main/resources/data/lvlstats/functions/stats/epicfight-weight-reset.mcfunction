@@ -1,0 +1,1 @@
+attribute @s epicfight:weight base set 40

@@ -1,0 +1,17 @@
+execute if score @s orcz-001 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/bigorcboss
+execute if score @s orcz-002 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/goblin_2sword
+execute if score @s orcz-003 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/goblinsavagebomb
+execute if score @s orcz-004 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/goblinsavagemace
+execute if score @s orcz-005 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/goblinshield
+execute if score @s orcz-006 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/goblinwerid
+execute if score @s orcz-007 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/orcirongroupleader
+execute if score @s orcz-008 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/orcsavage_2sword
+execute if score @s orcz-009 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/orcsavage_2swordiron
+execute if score @s orcz-010 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/orcsavagegroupleader
+execute if score @s orcz-011 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/orcsavagemace
+execute if score @s orcz-012 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/orcsavagemaceiron
+execute if score @s orcz-013 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/orcsavageweird
+execute if score @s orcz-014 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/orcshield
+execute if score @s orcz-015 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/orcshieldiron
+execute if score @s orcz-016 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/squig
+execute if score @s orcz-017 matches 1.. run function lvlstats:admin/xpsystem/xplogic/orcz/weirdboinecro

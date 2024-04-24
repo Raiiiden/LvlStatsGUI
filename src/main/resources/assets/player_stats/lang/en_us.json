@@ -1,0 +1,22 @@
+{
+  "gui.player_stats.player_stats.label_empty1": "Test",
+  "gui.player_stats.player_stats.button_empty2": "^",
+  "key.player_stats.stat_gui": "Open Stat GUI",
+  "gui.player_stats.player_stats.button_empty1": "^",
+  "gui.player_stats.player_stats.label_vigor": "Vigor",
+  "gui.player_stats.player_stats.hellotest": "test",
+  "gui.player_stats.player_stats.label_endurance": "Endurance",
+  "gui.player_stats.player_stats.button_int": "^",
+  "gui.player_stats.player_stats.label_luck": "Luck",
+  "gui.player_stats.player_stats.label_dexterity": "Dexterity",
+  "gui.player_stats.player_stats.label_statsavailable": "statsAvailable",
+  "gui.player_stats.player_stats.label_agility": "Agility",
+  "gui.player_stats.player_stats.label_displayscoreboardvalue": "DisplayScoreboardValue",
+  "gui.player_stats.player_stats.button_empty5": "^",
+  "gui.player_stats.player_stats.button_empty4": "^",
+  "gui.player_stats.player_stats.button_empty3": "^",
+  "gui.player_stats.player_stats.label_strength": "Strength",
+  "gui.player_stats.player_stats.label_empty": "Available Points:",
+  "gui.player_stats.player_stats.button_empty": "^",
+  "gui.player_stats.player_stats.label_intelligence": "Intelligence"
+}

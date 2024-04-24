@@ -1,0 +1,11 @@
+execute if score @s mowziesmobs-001 matches 1.. run function lvlstats:admin/xpsystem/xplogic/mowziesmobs/barako
+execute if score @s mowziesmobs-002 matches 1.. run function lvlstats:admin/xpsystem/xplogic/mowziesmobs/barakoa_sunblocker
+execute if score @s mowziesmobs-003 matches 1.. run function lvlstats:admin/xpsystem/xplogic/mowziesmobs/barakoan_barakoana
+execute if score @s mowziesmobs-004 matches 1.. run function lvlstats:admin/xpsystem/xplogic/mowziesmobs/barakoana
+execute if score @s mowziesmobs-005 matches 1.. run function lvlstats:admin/xpsystem/xplogic/mowziesmobs/barakoaya
+execute if score @s mowziesmobs-006 matches 1.. run function lvlstats:admin/xpsystem/xplogic/mowziesmobs/ferrous_wroughtnaut
+execute if score @s mowziesmobs-007 matches 1.. run function lvlstats:admin/xpsystem/xplogic/mowziesmobs/foliaath
+execute if score @s mowziesmobs-008 matches 1.. run function lvlstats:admin/xpsystem/xplogic/mowziesmobs/frostmaw
+execute if score @s mowziesmobs-009 matches 1.. run function lvlstats:admin/xpsystem/xplogic/mowziesmobs/grottol
+execute if score @s mowziesmobs-010 matches 1.. run function lvlstats:admin/xpsystem/xplogic/mowziesmobs/lantern
+execute if score @s mowziesmobs-011 matches 1.. run function lvlstats:admin/xpsystem/xplogic/mowziesmobs/naga

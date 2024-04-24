@@ -1,0 +1,36 @@
+{
+    "display":{
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "title": 
+        {
+            "text": "Criticals",
+            "color":"#FF0000",
+            "bold": true
+        },
+        "description":
+        {
+            "text": "LvlStats",
+            "color": "blue"
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria":
+    {
+        "attack_something":
+        {
+            "trigger": "minecraft:player_hurt_entity"
+    }
+},
+"requirements":
+[
+    ["attack_something"]
+],
+"rewards": {
+    "function":"lvlstats:stats/luck/critcheck"
+}
+}

@@ -1,0 +1,1 @@
+execute if score @s rotten_piglins-001 matches 1.. run function lvlstats:admin/xpsystem/xplogic/rotten_piglins/burning_zombie_piglin

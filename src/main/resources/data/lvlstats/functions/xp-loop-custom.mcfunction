@@ -1,0 +1,39 @@
+function lvlstats:admin/xpsystem/xplogic/minecraft/minecraft
+
+execute if score 01 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/epicfight/epicfight
+execute if score 02 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/barbarians/barbarians
+execute if score 03 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/alexsmobs/alexsmobs
+execute if score 04 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/untamedwilds/untamedwilds
+execute if score 05 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/dannys_expansion/dannys_expansion
+execute if score 06 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/mowziesmobs/mowziesmobs
+execute if score 07 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/graveyard/graveyard
+execute if score 08 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/orcz/orcz
+execute if score 09 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/earthmobsmod
+execute if score 10 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/friendsandfoes/friendsandfoes
+execute if score 11 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/goblinsanddungeons/goblinsanddungeons
+execute if score 12 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/doom/doom
+execute if score 13 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/rotten_piglins/rotten_piglins
+execute if score 14 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/netherskeletons/netherskeletons
+execute if score 15 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/pyromancer/pyromancer
+execute if score 16 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/stalwart_dungeons/stalwart_dungeons
+execute if score 17 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/twilightforest/twilightforest
+execute if score 18 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/blue_skies/blue_skies
+execute if score 19 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/undergarden/undergarden
+execute if score 20 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/grimoireofgaia/grimoireofgaia
+execute if score 21 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/fromtheshadows/fromtheshadows
+execute if score 22 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/player_mobs/player_mobs
+execute if score 23 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/cataclysm/cataclysm
+execute if score 24 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/hmag/hmag
+execute if score 25 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/monsterplus/monsterplus
+execute if score 26 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/savage_and_ravage/savage_and_ravage
+execute if score 27 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/weirdmobs/weirdmobs
+execute if score 28 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/cnb/cnb
+execute if score 29 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/ob_aquamirae/ob_aquamirae
+execute if score 30 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/supernatural/supernatural
+execute if score 31 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/meetyourfight/meetyourfight
+execute if score 32 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/takesapillage/takesapillage
+execute if score 33 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/pyrologernfriends/pyrologernfriends
+execute if score 34 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/quark/quark
+execute if score 35 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/irons_spellbooks/irons_spellbooks
+execute if score 36 numbers matches 1 run function lvlstats:admin/xpsystem/xplogic/mutantmonsters/mutantmonsters
+scoreboard players operation @s totalKillsCache = @s totalKills

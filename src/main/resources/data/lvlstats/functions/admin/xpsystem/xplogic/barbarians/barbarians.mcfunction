@@ -1,0 +1,1 @@
+execute if score @s barbarians-001 matches 1.. run function lvlstats:admin/xpsystem/xplogic/barbarians/barbarian

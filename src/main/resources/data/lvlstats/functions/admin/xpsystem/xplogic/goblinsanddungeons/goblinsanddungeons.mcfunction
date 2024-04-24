@@ -1,0 +1,9 @@
+execute if score @s goblinsanddungeons-001 matches 1.. run function lvlstats:admin/xpsystem/xplogic/goblinsanddungeons/garch
+execute if score @s goblinsanddungeons-002 matches 1.. run function lvlstats:admin/xpsystem/xplogic/goblinsanddungeons/gob
+execute if score @s goblinsanddungeons-003 matches 1.. run function lvlstats:admin/xpsystem/xplogic/goblinsanddungeons/gobber
+execute if score @s goblinsanddungeons-004 matches 1.. run function lvlstats:admin/xpsystem/xplogic/goblinsanddungeons/goblin_king
+execute if score @s goblinsanddungeons-005 matches 1.. run function lvlstats:admin/xpsystem/xplogic/goblinsanddungeons/goblo
+execute if score @s goblinsanddungeons-006 matches 1.. run function lvlstats:admin/xpsystem/xplogic/goblinsanddungeons/goom
+execute if score @s goblinsanddungeons-007 matches 1.. run function lvlstats:admin/xpsystem/xplogic/goblinsanddungeons/hobgob
+execute if score @s goblinsanddungeons-008 matches 1.. run function lvlstats:admin/xpsystem/xplogic/goblinsanddungeons/mimic
+execute if score @s goblinsanddungeons-009 matches 1.. run function lvlstats:admin/xpsystem/xplogic/goblinsanddungeons/ogre

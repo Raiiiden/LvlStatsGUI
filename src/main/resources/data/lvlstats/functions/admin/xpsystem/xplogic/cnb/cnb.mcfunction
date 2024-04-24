@@ -1,0 +1,9 @@
+execute if score @s cnb-001 matches 1.. run function lvlstats:admin/xpsystem/xplogic/cnb/cactem
+execute if score @s cnb-002 matches 1.. run function lvlstats:admin/xpsystem/xplogic/cnb/cindershell
+execute if score @s cnb-003 matches 1.. run function lvlstats:admin/xpsystem/xplogic/cnb/end_whale
+execute if score @s cnb-004 matches 1.. run function lvlstats:admin/xpsystem/xplogic/cnb/lilytad
+execute if score @s cnb-005 matches 1.. run function lvlstats:admin/xpsystem/xplogic/cnb/little_grebe
+execute if score @s cnb-006 matches 1.. run function lvlstats:admin/xpsystem/xplogic/cnb/lizard
+execute if score @s cnb-007 matches 1.. run function lvlstats:admin/xpsystem/xplogic/cnb/minipad
+execute if score @s cnb-008 matches 1.. run function lvlstats:admin/xpsystem/xplogic/cnb/sporeling
+execute if score @s cnb-009 matches 1.. run function lvlstats:admin/xpsystem/xplogic/cnb/yeti

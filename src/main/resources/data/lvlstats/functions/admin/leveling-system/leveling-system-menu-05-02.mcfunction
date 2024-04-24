@@ -1,0 +1,5 @@
+tellraw @s [""]
+tellraw @s [".............................................................."]
+tellraw @s ["","Level 10: ",{"score":{"name":"10","objective":"playerLevelMath"}}," XP","\n","Level 20: ",{"score":{"name":"20","objective":"playerLevelMath"}}," XP","\n","Level 30: ",{"score":{"name":"30","objective":"playerLevelMath"}}," XP","\n","Level 40: ",{"score":{"name":"40","objective":"playerLevelMath"}}," XP","\n","Level 50: ",{"score":{"name":"50","objective":"playerLevelMath"}}," XP","\n","Level 60: ",{"score":{"name":"60","objective":"playerLevelMath"}}," XP","\n","Level 70: ",{"score":{"name":"70","objective":"playerLevelMath"}}," XP","\n","Level 80: ",{"score":{"name":"80","objective":"playerLevelMath"}}," XP","\n","Level 90: ",{"score":{"name":"90","objective":"playerLevelMath"}}," XP","\n","Level 100: ",{"score":{"name":"100","objective":"playerLevelMath"}}," XP","\n","Level 110: ",{"score":{"name":"110","objective":"playerLevelMath"}}," XP","\n","Level 120: ",{"score":{"name":"120","objective":"playerLevelMath"}}," XP"]
+tellraw @s [".............................................................."]
+tellraw @s [""]

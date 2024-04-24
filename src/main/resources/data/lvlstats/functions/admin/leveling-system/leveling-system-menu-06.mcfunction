@@ -1,0 +1,7 @@
+tellraw @s [""]
+tellraw @s [".............................................................."]
+tellraw @s ["",{"text":"XP System","hoverEvent":{"action":"show_text","contents":[{"text":"Whether the XP system used should be from the vanilla XP system or it's own separate system.","italic":true}]}},"\n","Current Value: ",{"score":{"name":"SS","objective":"statPreset"},"color":"red"},"\n","\n",{"text":"1. Vanilla XP System (default)","clickEvent":{"action":"run_command","value":"/function lvlstats:admin/leveling-system/leveling-system-menu-06-01"},"hoverEvent":{"action":"show_text","contents":[{"text":"Vanilla XP gained is used in Lvl Stats calculations.","italic":true}]}},"\n",{"text":"2. Separate XP System","clickEvent":{"action":"run_command","value":"/function lvlstats:admin/leveling-system/leveling-system-menu-06-02"},"hoverEvent":{"action":"show_text","contents":[{"text":"Separate XP system where XP is granted on mob kill. XP used in Lvl Stats calculations is dependent on last blow dealt. Uses a custom hard-coded XP table.","italic":true}]}}]
+tellraw @s [""]
+tellraw @s {"text":"0. Back","clickEvent":{"action":"run_command","value":"/function lvlstats:admin/leveling-system/leveling-system-menu"}}
+tellraw @s [".............................................................."]
+tellraw @s [""]

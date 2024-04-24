@@ -1,0 +1,17 @@
+execute if score @s earthmobsmod-001 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/bone_spider
+execute if score @s earthmobsmod-002 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/bouldering_drowned
+execute if score @s earthmobsmod-003 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/bouldering_zombie
+execute if score @s earthmobsmod-004 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/cluck_shroom
+execute if score @s earthmobsmod-005 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/horned_sheep
+execute if score @s earthmobsmod-006 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/hyper_rabbit
+execute if score @s earthmobsmod-007 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/jumbo_rabbit
+execute if score @s earthmobsmod-008 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/lobber_drowned
+execute if score @s earthmobsmod-009 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/lobber_zombie
+execute if score @s earthmobsmod-010 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/melon_golem
+execute if score @s earthmobsmod-011 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/moobloom
+execute if score @s earthmobsmod-012 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/moolip
+execute if score @s earthmobsmod-013 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/skeleton_wolf
+execute if score @s earthmobsmod-014 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/stray_bone_spider
+execute if score @s earthmobsmod-015 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/tropical_slime
+execute if score @s earthmobsmod-016 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/viler_witch
+execute if score @s earthmobsmod-017 matches 1.. run function lvlstats:admin/xpsystem/xplogic/earthmobsmod/wooly_cow

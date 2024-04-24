@@ -1,0 +1,10 @@
+execute if score LU statPreset matches 0 run function lvlstats:stats/luck/luck-update-00
+execute if score LU statPreset matches 1 run function lvlstats:stats/luck/luck-update-01
+execute if score LU statPreset matches 2 run function lvlstats:stats/luck/luck-update-02
+execute if score LU statPreset matches 3 run function lvlstats:stats/luck/luck-update-03
+execute if score LU statPreset matches 4 run function lvlstats:stats/luck/luck-update-04
+execute if score LU statPreset matches 5 run function lvlstats:stats/luck/luck-update-05
+execute if score LU statPreset matches 6 run function lvlstats:stats/luck/luck-update-06
+execute if score LU statPreset matches 7 run function lvlstats:stats/luck/luck-update-07
+#execute if score LU statPreset matches 8 run function lvlstats:stats/luck/luck-update-08
+#execute if score LU statPreset matches 9 run function lvlstats:stats/luck/luck-update-09

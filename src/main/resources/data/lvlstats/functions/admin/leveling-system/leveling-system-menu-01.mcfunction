@@ -1,0 +1,7 @@
+tellraw @s [""]
+tellraw @s [".............................................................."]
+tellraw @s ["","Max Level Menu","\n","Current Max Level: ",{"score":{"name":"L","objective":"numbers"},"color":"red"},"\n","\n",{"text":"1. Level 240 (default)","clickEvent":{"action":"run_command","value":"/function lvlstats:admin/leveling-system/leveling-system-menu-01-01"},"hoverEvent":{"action":"show_text","contents":[{"text":"Set the max level to 240","italic":true}]}},"\n",{"text":"2. Level 501","clickEvent":{"action":"run_command","value":"/function lvlstats:admin/leveling-system/leveling-system-menu-01-02"},"hoverEvent":{"action":"show_text","contents":[{"text":"Set the max level to 501.","italic":true}]}},"\n",{"text":"3. Level 120","clickEvent":{"action":"run_command","value":"/function lvlstats:admin/leveling-system/leveling-system-menu-01-03"},"hoverEvent":{"action":"show_text","contents":["Set the max level to 120"]}},"\n",{"text":"4. Other","clickEvent":{"action":"run_command","value":"/function lvlstats:admin/leveling-system/leveling-system-menu-01-04"},"hoverEvent":{"action":"show_text","contents":["Instructions on how to set a custom value 1-501."]}}]
+tellraw @s [""]
+tellraw @s {"text":"0. Back","clickEvent":{"action":"run_command","value":"/function lvlstats:admin/leveling-system/leveling-system-menu"}}
+tellraw @s [".............................................................."]
+tellraw @s [""]

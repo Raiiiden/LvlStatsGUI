@@ -1,0 +1,45 @@
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=0}] run attribute @s minecraft:generic.max_health base set 20
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=1}] run attribute @s minecraft:generic.max_health base set 21
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=2}] run attribute @s minecraft:generic.max_health base set 22
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=3}] run attribute @s minecraft:generic.max_health base set 23
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=4}] run attribute @s minecraft:generic.max_health base set 24
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=5}] run attribute @s minecraft:generic.max_health base set 25
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=6}] run attribute @s minecraft:generic.max_health base set 26
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=7}] run attribute @s minecraft:generic.max_health base set 27
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=8}] run attribute @s minecraft:generic.max_health base set 28
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=9}] run attribute @s minecraft:generic.max_health base set 29
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=10}] run attribute @s minecraft:generic.max_health base set 30
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=11}] run attribute @s minecraft:generic.max_health base set 31
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=12}] run attribute @s minecraft:generic.max_health base set 32
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=13}] run attribute @s minecraft:generic.max_health base set 33
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=14}] run attribute @s minecraft:generic.max_health base set 34
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=15}] run attribute @s minecraft:generic.max_health base set 35
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=16}] run attribute @s minecraft:generic.max_health base set 36
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=17}] run attribute @s minecraft:generic.max_health base set 37
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=18}] run attribute @s minecraft:generic.max_health base set 38
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=19}] run attribute @s minecraft:generic.max_health base set 39
+execute if score 01 attributes matches 1 run execute if entity @s[scores={vigor=20}] run attribute @s minecraft:generic.max_health base set 40
+
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=0}] run attribute @s minecraft:generic.armor base set 0
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=1}] run attribute @s minecraft:generic.armor base set 1.5
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=2}] run attribute @s minecraft:generic.armor base set 3
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=3}] run attribute @s minecraft:generic.armor base set 4.5
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=4}] run attribute @s minecraft:generic.armor base set 6
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=5}] run attribute @s minecraft:generic.armor base set 7.5
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=6}] run attribute @s minecraft:generic.armor base set 9
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=7}] run attribute @s minecraft:generic.armor base set 10.5
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=8}] run attribute @s minecraft:generic.armor base set 12
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=9}] run attribute @s minecraft:generic.armor base set 13.5
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=10}] run attribute @s minecraft:generic.armor base set 15
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=11}] run attribute @s minecraft:generic.armor base set 16.5
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=12}] run attribute @s minecraft:generic.armor base set 18
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=13}] run attribute @s minecraft:generic.armor base set 19.5
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=14}] run attribute @s minecraft:generic.armor base set 21
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=15}] run attribute @s minecraft:generic.armor base set 22.5
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=16}] run attribute @s minecraft:generic.armor base set 24
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=17}] run attribute @s minecraft:generic.armor base set 25.5
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=18}] run attribute @s minecraft:generic.armor base set 27
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=19}] run attribute @s minecraft:generic.armor base set 28.5
+execute if score 14 attributes matches 1 run execute if entity @s[scores={vigor=20}] run attribute @s minecraft:generic.armor base set 30
+
+effect give @s minecraft:instant_health 1 100 true

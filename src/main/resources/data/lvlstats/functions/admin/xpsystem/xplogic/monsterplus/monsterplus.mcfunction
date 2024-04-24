@@ -1,0 +1,9 @@
+execute if score @s monsterplus-001 matches 1.. run function lvlstats:admin/xpsystem/xplogic/monsterplus/abyssologer
+execute if score @s monsterplus-002 matches 1.. run function lvlstats:admin/xpsystem/xplogic/monsterplus/crystal_zombie
+execute if score @s monsterplus-003 matches 1.. run function lvlstats:admin/xpsystem/xplogic/monsterplus/glow_skeleton
+execute if score @s monsterplus-004 matches 1.. run function lvlstats:admin/xpsystem/xplogic/monsterplus/lava_squid
+execute if score @s monsterplus-005 matches 1.. run function lvlstats:admin/xpsystem/xplogic/monsterplus/mother_lava_squid
+execute if score @s monsterplus-006 matches 1.. run function lvlstats:admin/xpsystem/xplogic/monsterplus/opalescent_eye
+execute if score @s monsterplus-007 matches 1.. run function lvlstats:admin/xpsystem/xplogic/monsterplus/overgrown_skeleton
+execute if score @s monsterplus-008 matches 1.. run function lvlstats:admin/xpsystem/xplogic/monsterplus/spectral_skeleton
+execute if score @s monsterplus-009 matches 1.. run function lvlstats:admin/xpsystem/xplogic/monsterplus/swamp_zombie

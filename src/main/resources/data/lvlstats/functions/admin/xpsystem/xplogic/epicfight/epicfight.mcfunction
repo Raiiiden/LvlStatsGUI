@@ -1,0 +1,1 @@
+execute if score @s epicfight-001 matches 1.. run function lvlstats:admin/xpsystem/xplogic/epicfight/wither_skeleton_minion

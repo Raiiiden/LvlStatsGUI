@@ -1,0 +1,36 @@
+{
+    "display":{
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "title": 
+        {
+            "text": "DimensionChanged",
+            "color":"#FF0000",
+            "bold": true
+        },
+        "description":
+        {
+            "text": "LvlStats",
+            "color": "blue"
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria":
+    {
+        "detect_dimension_change":
+        {
+            "trigger": "minecraft:changed_dimension"
+    }
+},
+"requirements":
+[
+    ["detect_dimension_change"]
+],
+"rewards": {
+    "function":"lvlstats:dimension-weight-fix"
+}
+}
