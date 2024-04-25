@@ -1,7 +1,3 @@
-
-/*
- *	MCreator note: This file will be REGENERATED on each build.
- */
 package net.raiiiden.lvlstatsgui.init;
 
 import net.raiiiden.lvlstatsgui.client.gui.PlayerStatsScreen;
