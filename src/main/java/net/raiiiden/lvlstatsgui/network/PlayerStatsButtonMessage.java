@@ -1,4 +1,3 @@
-
 package net.raiiiden.lvlstatsgui.network;
 
 import net.raiiiden.lvlstatsgui.Lvl_Stats_GUI;
@@ -10,7 +9,6 @@ import net.raiiiden.lvlstatsgui.procedures.IncreaseIntelligenceProcedure;
 import net.raiiiden.lvlstatsgui.procedures.IncreaseEnduranceProcedure;
 import net.raiiiden.lvlstatsgui.procedures.IncreaseDexterityProcedure;
 import net.raiiiden.lvlstatsgui.procedures.IncreaseAgilityProcedure;
-import net.raiiiden.lvlstatsgui.Lvl_Stats_GUI;
 
 import net.minecraftforge.network.NetworkEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;

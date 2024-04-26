@@ -1,7 +1,7 @@
 package net.raiiiden.lvlstatsgui.client.gui;
 
 import net.raiiiden.lvlstatsgui.world.inventory.PlayerStatsMenu;
-import net.raiiiden.lvlstatsgui.procedures.UpdateScoreboardLabelProcedure;
+import net.raiiiden.lvlstatsgui.procedures.UpdateScoreboardLabel;
 import net.raiiiden.lvlstatsgui.network.PlayerStatsButtonMessage;
 import net.raiiiden.lvlstatsgui.Lvl_Stats_GUI;
 
@@ -77,7 +77,7 @@ public class PlayerStatsScreen extends AbstractContainerScreen<PlayerStatsMenu> 
 		guiGraphics.drawString(this.font, Component.translatable("gui.player_stats.player_stats.label_empty"), 1, 156, -1, false);
 		guiGraphics.drawString(this.font,
 
-				UpdateScoreboardLabelProcedure.execute(entity), 91, 156, -1, false);
+				UpdateScoreboardLabel.execute(entity), 91, 156, -1, false);
 		guiGraphics.drawString(this.font, Component.translatable("gui.player_stats.player_stats.label_endurance"), 4, 41, -1, false);
 		guiGraphics.drawString(this.font, Component.translatable("gui.player_stats.player_stats.label_dexterity"), 82, 41, -1, false);
 		guiGraphics.drawString(this.font, Component.translatable("gui.player_stats.player_stats.label_agility"), 7, 83, -1, false);

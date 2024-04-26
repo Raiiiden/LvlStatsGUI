@@ -1,4 +1,3 @@
-
 package net.raiiiden.lvlstatsgui.network;
 
 import net.raiiiden.lvlstatsgui.procedures.OpenGUIProcedure;

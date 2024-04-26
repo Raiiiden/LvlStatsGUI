@@ -1,7 +1,6 @@
-
 package net.raiiiden.lvlstatsgui.world.inventory;
 
-import net.raiiiden.lvlstatsgui.procedures.UpdateScoreboardLabelProcedure;
+import net.raiiiden.lvlstatsgui.procedures.UpdateScoreboardLabel;
 import net.raiiiden.lvlstatsgui.init.PlayerStatsModMenus;
 
 import net.minecraftforge.items.ItemStackHandler;
@@ -49,7 +48,7 @@ public class PlayerStatsMenu extends AbstractContainerMenu implements Supplier<M
 			this.z = pos.getZ();
 			access = ContainerLevelAccess.create(world, pos);
 		}
-		UpdateScoreboardLabelProcedure.execute(entity);
+		UpdateScoreboardLabel.execute(entity);
 	}
 
 	@Override

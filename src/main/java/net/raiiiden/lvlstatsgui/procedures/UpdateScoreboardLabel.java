@@ -7,17 +7,23 @@ import net.minecraft.world.scores.Score;
 import net.minecraft.world.entity.Entity;
 import java.text.DecimalFormat;
 
-public class UpdateScoreboardLabelProcedure {
+public class UpdateScoreboardLabel {
 	public static String execute(Entity entity) {
 		if (entity == null || !(entity instanceof Player))
-			return "";
+			return "entity is null or not a player";
 
 		Player player = (Player) entity;
 		Scoreboard scoreboard = player.getScoreboard();
-		Objective objective = scoreboard.getObjective("strength");
 
+		// Log all objectives for debugging
+		System.out.println("All objectives:");
+		for (Objective obj : scoreboard.getObjectives()) {
+			System.out.println(obj.getName() + ": " + obj.getCriteria().toString());
+		}
+
+		Objective objective = scoreboard.getObjective("strength, Criteria");
 		if (objective == null)
-			return "null";
+			return "objective 'strength' is null";
 
 		Score score = scoreboard.getOrCreatePlayerScore(player.getScoreboardName(), objective);
 		int scorePoints = score.getScore();
