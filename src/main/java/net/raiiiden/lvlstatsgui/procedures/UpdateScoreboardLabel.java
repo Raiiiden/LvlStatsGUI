@@ -21,7 +21,7 @@ public class UpdateScoreboardLabel {
 			System.out.println(obj.getName() + ": " + obj.getCriteria().toString());
 		}
 
-		Objective objective = scoreboard.getObjective("strength, Criteria");
+		Objective objective = scoreboard.getObjective("strength");
 		if (objective == null)
 			return "objective 'strength' is null";
 
